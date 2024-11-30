@@ -2,7 +2,7 @@
 
 This repo contains a ROS2 package for autonomous control of a turtlebot waffle robot. 
 The robot moves straight until it detects an obstacle at a distance of 1 meter infront of it.
-Then the robot rotates alcockwise until the obstacle is clear and moves straight. It repeats this process
+Then the robot rotates cockwise until the obstacle is clear and moves straight. It repeats this process
 and every time it rotates, it changes the direction of rotation.
 
 It moves straight with a speed of 0.3 m/s and rotates with a speed of 1.0 rad/s.
